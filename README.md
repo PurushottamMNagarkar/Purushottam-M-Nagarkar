@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://www.canva.com/design/DAGIkbe56DM/3CAFWjXag_uRXdLydRiNlA/edit)
+![I am GitHub Readme Generator's creator](Hello, my name is Matthew. Nice to meet you..png)
 
 - Experienced Python Developer with expertise in UI automation, data analysis, and testing frameworks.
 - Skilled in Pandas, NumPy, Selenium, Matplotlib, and Seaborn for automation and data-driven solutions.
@@ -15,7 +15,8 @@ Skills: Python / SQL / Manual Testing/ Selenium / Data Analyst/ Data Science
 - 🌱 I’m currently learning Machine Learning , Deep Learning , Power Bi ,AI 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Purushotta M Nagarkar)  
+
+ 
 
 
 
