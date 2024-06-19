@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/PurushottamMNagarkar/PurushottamMNagarkar/blob/main/Hello%2C%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you..png)
 
 ### Hi there 👋, I'm Purushottam M Nagarkar 
-#### I am GitHub Readme Generator's creator
+
 - Experienced Python Developer with expertise in UI automation, data analysis, and testing frameworks.
 - Skilled in Pandas, NumPy, Selenium, Matplotlib, and Seaborn for automation and data-driven solutions.
 - Improved efficiency and software functionality through cross-functional collaboration.
